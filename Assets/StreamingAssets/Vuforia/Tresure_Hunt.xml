@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="young_scientist" size="4.000000 6.200927" />
+    <ImageTarget name="vision" size="4.000000 0.952894" />
+    <ImageTarget name="tagorehall" size="4.000000 1.894737" />
+    <ImageTarget name="speedlimit" size="4.000000 8.444445" />
+    <ImageTarget name="Prist" size="4.000000 8.405680" />
+    <ImageTarget name="nehru" size="4.000000 1.894737" />
+    <ImageTarget name="Laundry" size="4.000000 2.151639" />
+    <ImageTarget name="keep_the_campus_clean" size="4.000000 2.678175" />
+    <ImageTarget name="jakson" size="4.000000 2.039088" />
+    <ImageTarget name="grivencesystem" size="4.000000 5.219941" />
+    <ImageTarget name="gandhi_ji" size="4.000000 1.970965" />
+    <ImageTarget name="frame" size="4.000000 2.901145" />
+    <ImageTarget name="extra" size="4.000000 3.264706" />
+    <ImageTarget name="caution" size="4.000000 2.562753" />
+    <ImageTarget name="ashoka" size="4.000000 2.279734" />
+    <ImageTarget name="anpurnastaff" size="4.000000 5.031915" />
+  </Tracking>
+</QCARConfig>
